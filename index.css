@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0f172a;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Main Card */
+.container {
+    background: #1e293b;
+    padding: 30px;
+    border-radius: 15px;
+    text-align: center;
+    width: 250px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+}
+
+/* Name */
+#name {
+    margin: 0;
+    font-size: 22px;
+}
+
+/* Symbol */
+#symbol {
+    margin: 5px 0 15px;
+    color: #94a3b8;
+}
+
+/* Price Box */
+.price-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+/* Price */
+#price {
+    font-size: 36px;
+    margin: 0;
+}
+
+/* Time */
+#time {
+    margin-top: 15px;
+    font-size: 14px;
+    color: #94a3b8;
+}
+
+/* Icon */
+#price-icon img {
+    width: 20px;
+    height: 20px;
+}
