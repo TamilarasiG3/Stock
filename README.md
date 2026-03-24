@@ -16,9 +16,12 @@ HTML – Structure
 CSS – Styling
 JavaScript – Logic & simulation
 
-## 📂 Project Structure
-stock-ticker/
-│── index.html
-│── style.css
-│── script.js
-│── README.md
+## 📌 How It Works
+Predefined stock data is stored in JavaScript
+Prices are updated using setInterval()
+Random values simulate market fluctuations
+UI updates dynamically based on changes
+
+👤 Author
+
+# Tamilarasi G
