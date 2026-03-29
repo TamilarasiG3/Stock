@@ -3,6 +3,7 @@
 A simple Stock Ticker Web Application built using vanilla JavaScript that simulates stock price updates without using any external API.
 
 ## 🚀 Features
+
 🔍 Search stock symbols (predefined)
 📊 Displays stock prices
 🔄 Simulated real-time updates
@@ -12,16 +13,17 @@ A simple Stock Ticker Web Application built using vanilla JavaScript that simula
 
 
 ## 🛠️ Tech Stack
+
 HTML – Structure
 CSS – Styling
 JavaScript – Logic & simulation
 
 ## 📌 How It Works
+
 Predefined stock data is stored in JavaScript
 Prices are updated using setInterval()
 Random values simulate market fluctuations
 UI updates dynamically based on changes
 
-👤 Author
-
+## 👤 Author
 # Tamilarasi G
